@@ -1,6 +1,7 @@
 // sort input collections
-// collection_1 & collection_3 is already sort min -> max
-// collection_0 is already sort max -> min
+// Input: collection_1 & collection_3 is already sort min -> max
+//        collection_0 is already sort max -> min
+// Output: array of sort number in input collections from min to max
 function merge(
   collection_1: number[],
   collection_2: number[],
